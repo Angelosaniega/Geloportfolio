@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import ME from '../../assests/me.png';
+import ME from '../../assests/angas.png.png';
 import {BiMedal, BiUser, BiFolder} from 'react-icons/bi';
 
 const About = () => {
@@ -25,12 +25,12 @@ const About = () => {
                     <article className='about__card'>
                         <BiUser className='about__icon'/>
                         <h5>Education</h5>
-                        <small>Villanova University <br/> CpE and CS</small>
+                        <small>Western Institute of Technology <br/> BSIT</small>
                     </article>
                     <article className='about__card'>
                         <BiFolder className='about__icon'/>
                         <h5>Hobbies</h5>
-                        <small>Traveling, Lacrosse, Basketball & Coding</small>
+                        <small>Traveling, Basketball & Coding</small>
                     </article>
                 </div>
                 <p>

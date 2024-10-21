@@ -1,6 +1,6 @@
 import React from 'react';
 import './Portfolio.css';
-import JPMC from '../../assests/jpmc.jpeg';
+import JPMC from '../../assests/apptodos.png';
 import ICANON from '../../assests/icanon.jpeg';
 
 const projects = [

@@ -82,12 +82,7 @@ const Experience = () => {
                             <h4>REST API</h4>
                         </div>
                     </article>
-                    <article className='experience__details'>
-                        <SiCplusplus className='experience__details-icon'/>
-                        <div className='experience__details-name'>
-                            <h4>C / C++</h4>
-                        </div>
-                    </article>            
+                              
                 </div>
             </div>
         </div>

@@ -23,14 +23,14 @@ const Contact = () => {
                     <article className="contact__option">
                         <HiOutlineMail className='contact__option-icon'/>
                         <h4>Email</h4> 
-                        <h5>lucasyannul13@gmail.com</h5>
-                        <a href="mailto:lucasyannul13@gmail.com">Email me!</a>
+                        <h5>ponceangelo08@gmail.com</h5>
+                        <a href="https://mail.google.com/mail/u/0/#inbox">Email me!</a>
                     </article>
                     <article className="contact__option">
                         <BsLinkedin className='contact__option-icon'/>
                         <h4>LinkedIn</h4> 
-                        <h5>in/lucasyannul</h5>
-                        <a href='https://www.linkedin.com/in/lucasyannul' target='_blank'>Message me on LinkedIn!</a>
+                        <h5>Angelo Ponce</h5>
+                        <a href='https://www.linkedin.com/in/angelo-ponce-507a2b32b/' target='_blank'>Message me on LinkedIn!</a>
                     </article>
                 </div>
                 <form ref={form} onSubmit={sendEmail}>

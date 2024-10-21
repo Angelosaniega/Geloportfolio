@@ -1,6 +1,6 @@
 .contact__container {
     width: 58%;
-    display: grid;
+    
     grid-template-columns: 30% 58%;
     gap: 12%;
 }
@@ -13,6 +13,7 @@
 
 .contact__option {
     background: var(--color-bg-variant);
+    height: 200px;
     padding: 1.2rem;
     border-radius: 1.2rem;
     text-align: center;
@@ -37,21 +38,6 @@
 }
 
 /* message form */
-form {
-    display: flex;
-    flex-direction: column;
-    gap: 1.2rem;
-}
-
-input, textarea {
-    width: 100%;
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    background: transparent;
-    border: 2px solid var(--color-primary-variant);
-    resize: none;
-    color: var(--color-white);
-}
 
 /* mobile devices */
 @media screen and (max-width: 600px){

@@ -1,4 +1,6 @@
 import React from 'react';
+import { FaFigma } from 'react-icons/fa';
+import { FaDatabase } from 'react-icons/fa';
 import "./Experience.css";
 import {FaReact, FaHtml5, FaGitAlt, FaJava} from 'react-icons/fa';
 import {SiJavascript, SiTypescript, SiCss3, SiSpringboot, SiCplusplus} from 'react-icons/si';
@@ -29,11 +31,11 @@ const Experience = () => {
                         </div>
                     </article>
                     <article className='experience__details'>
-                        <SiTypescript className='experience__details-icon'/>
-                        <div className='experience__details-name'>
-                            <h4>TypeScript</h4>
-                        </div>
-                    </article>
+    <FaFigma className='experience__details-icon' /> {/* Replace MdHttp with FaFigma */}
+    <div className='experience__details-name'>
+        <h4>FIGMA</h4>
+    </div>
+</article>
                     <article className='experience__details'>
                         <FaHtml5 className='experience__details-icon'/>
                         <div className='experience__details-name'>
@@ -64,12 +66,7 @@ const Experience = () => {
                             <h4>Java</h4>
                         </div>
                     </article>
-                    <article className='experience__details'>
-                        <SiSpringboot className='experience__details-icon'/>
-                        <div className='experience__details-name'>
-                            <h4>Spring Boot</h4>
-                        </div>
-                    </article>
+                    
                     <article className='experience__details'>
                         <TbBrandNextjs className='experience__details-icon'/>
                         <div className='experience__details-name'>
@@ -77,11 +74,11 @@ const Experience = () => {
                         </div>
                     </article>
                     <article className='experience__details'>
-                        <MdHttp className='experience__details-icon'/>
-                        <div className='experience__details-name'>
-                            <h4>REST API</h4>
-                        </div>
-                    </article>
+    <FaDatabase className='experience__details-icon' /> {/* Replace MdHttp with FaDatabase */}
+    <div className='experience__details-name'>
+        <h4>MONGODB</h4>
+    </div>
+</article>
                               
                 </div>
             </div>

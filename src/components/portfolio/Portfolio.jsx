@@ -1,24 +1,24 @@
 import React from 'react';
 import './Portfolio.css';
 import JPMC from '../../assests/apptodos.png';
-import ICANON from '../../assests/icanon.jpeg';
+import ICANON from '../../assests/FIGMADESIGN.PNG';
 
 const projects = [
 { 
     id: 1,
     image: JPMC,
-    title: 'JPMorgan Chase & Co.',
-    position: 'Software Engineering Intern',
-    date: 'Jun 2022 - Aug 2022',
-    description: 'Created a mobile app chatbot using React.js and Spring Boot to help business teams working with Ultra-High-Net-Worth clients in accessing asset and liability information on the go. Built the UI and custom quick chat functionality based on response data from the bot\’s conversation API.'
+    title: 'To-Do App - MERN Stack.',
+    position: 'Integrative Programming',
+    date: 'Sep  2024 - Oct  2024',
+    description: 'I developed a to-do app using the MERN stack (MongoDB, Express, React, Node.js). The app allows users to add, edit, and delete tasks while keeping track of their progress. I implemented a responsive UI with React, handled back-end logic with Node.js and Express, and managed data using MongoDB for seamless task storage and retrieval..'
 },
 { 
     id: 2,
     image: ICANON,
-    title: 'ICANON Associates',
-    position: 'Software Engineering Intern',
-    date: 'Jun 2021 - Aug 2021',
-    description: 'Developed a plugin for the Thunderbird email client to allow the support staff to log tickets to their database based on email content and color code incoming emails based on ticket status. Also migrated the company\'s legacy application from a Java-based Swing version to a web-based version using JavaScript, HTML, JSP\'s, CSS & jQuery.'
+    title: 'FIGMA',
+    position: 'UI/UX Designer - Figma Experience',
+    date: 'Sep 2023 - Oct 2023',
+    description: 'I used Figma to design and prototype user-friendly interfaces for websites and apps. My work included creating wireframes, mockups, and interactive prototypes to ensure a smooth user experience. I collaborated with developers and other team members to bring ideas to life and made sure the designs were both functional and visually appealing. Figmas tools helped me quickly gather feedback and make improvements during the design process. '
 },
 ];
 

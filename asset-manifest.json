@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.78278bf9.css",
+    "main.js": "/personal-portfolio/static/js/main.8ca7363b.js",
+    "static/media/apptodos.png": "/personal-portfolio/static/media/apptodos.a7560d1f693ab0459bd0.png",
+    "static/media/FIGMADESIGN.PNG": "/personal-portfolio/static/media/FIGMADESIGN.678d6c90baa29c21183b.PNG",
+    "static/media/angas.png.png": "/personal-portfolio/static/media/angas.png.8d05d4c451b9747e8534.png",
+    "static/media/45-degree-fabric-light.png": "/personal-portfolio/static/media/45-degree-fabric-light.3e9170690495094b2f13.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.78278bf9.css.map": "/personal-portfolio/static/css/main.78278bf9.css.map",
+    "main.8ca7363b.js.map": "/personal-portfolio/static/js/main.8ca7363b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78278bf9.css",
+    "static/js/main.8ca7363b.js"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "personal-portfolio",
   "version": "0.1.0",
-  "homepage": "https://https://angelosaniega.github.io/Geloportfolio/",
+  "homepage": "https://angelosaniega.github.io/Geloportfolio/",
   "private": true,
   "dependencies": {
     "@lottiefiles/react-lottie-player": "^3.4.7",
